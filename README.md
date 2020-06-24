@@ -1,5 +1,4 @@
 # Plane
--------
 # V1.0
 - Add small enemy planes
 - Add big enemy aircraft

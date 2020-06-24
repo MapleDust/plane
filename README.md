@@ -1,4 +1,7 @@
-plane
---------
-第一个练手的小项目
-欢迎提交BUG和建议
+# Plane
+-------
+# V1.0
+- Add small enemy planes
+- Add big enemy aircraft
+- Add little bees
+# Welcome to Issues bugs and suggestions
